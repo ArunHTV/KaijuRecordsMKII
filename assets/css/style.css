@@ -1,0 +1,17 @@
+.headers, p {
+    text-align: center;
+}
+
+.headers {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+p, .nav-link {
+    font-family: 'Oswald', sans-serif;
+}
+
+#cartModal {
+    margin-top: 300px;
+}
